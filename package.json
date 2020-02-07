@@ -1,0 +1,22 @@
+{
+  "name": "solidity_access_control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviBlock8/SOLIDITY_ACCESS_CONTROL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviBlock8/SOLIDITY_ACCESS_CONTROL/issues"
+  },
+  "homepage": "https://github.com/RaviBlock8/SOLIDITY_ACCESS_CONTROL#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0"
+  }
+}
