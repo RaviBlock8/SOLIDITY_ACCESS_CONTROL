@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/RaviBlock8/SOLIDITY_ACCESS_CONTROL#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.5.0"
+    "@openzeppelin/contracts": "^4.7.2"
   }
 }
